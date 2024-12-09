@@ -113,7 +113,7 @@ int main() {
 	ft_printf("Large integer: %d\n", 2147483647);
 		printf("Large integer: %d\n", 2147483647);
 	ft_printf("Small integer: %d\n", -2147483648);
-		printf("Small integer: %d\n", -2147483648);
+		printf("Small integer: %ld\n", -2147483648);
 	
 	ft_printf("int:%d\n", result1 = ft_printf("%    d", 25));
 		printf("int:%d\n", result = printf("%    d", 25));
