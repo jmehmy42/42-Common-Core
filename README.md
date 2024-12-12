@@ -25,10 +25,15 @@ Key Features:
 Topics Covered:
 
   Basics of C programming (syntax, variables, loops, and functions)
+  
   Memory management (pointers, arrays, and dynamic allocation)
+  
   Algorithms and data structures (sorting, searching, linked lists, etc.)
+  
   Unix commands and shell scripting
+  
   Version control (Git)
+  
   Problem-solving and debugging techniques
 
 By the end of the Common Core, students are expected to have a strong foundation in programming and the ability to tackle more advanced topics as they move into the specialized areas of the 42 curriculum.
